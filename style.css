@@ -79,6 +79,28 @@ body {
   box-shadow: 0 0px 10px rgba(222, 212, 14, 0.8);
 
 }
+.main-card{
+  width:50%;
+}
+
+@media (max-width:768px){
+  .btn {
+   
+    
+    width:150px;
+    font-size: 12px;
+
+  }
+  .main-card{
+    width:100%;
+  }
+}
+
+
+
+
+
+
 
 
 
